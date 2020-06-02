@@ -1,9 +1,7 @@
-```
 This script is modified version of [this](https://github.com/paulolramos/eslint-prettier-airbnb-react)
 Thanks to [paulolramos](https://github.com/paulolramos) and other contributers
-```
 
-Note: `The original script was modified tobe compatible with [create-react-app](https://github.com/facebook/create-react-app)`
+Note: The original script was modified tobe compatible with [create-react-app](https://github.com/facebook/create-react-app)
 
 # Installation
 
